@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "abTmaPpVRtPd45smwhZ1rniEu0kGVkh0n5ggc9Z52EKHWwB6Kl/XghA4BxR2zPGXuwZ5J0FGA5WH3B/1Co7PfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\conor\\source\\repos\\SMHW.NET\\SMHW.NET\\SMHW.NET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\conor\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\conor\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\conor\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

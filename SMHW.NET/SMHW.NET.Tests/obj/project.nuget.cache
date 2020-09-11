@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IVzxcHCbAX009McUbUZOiU1CZQzuYhQtYrZIZywJuiML8bPMJ93Pucd+4G7tXVYi/Z2Q2P0rRRBylCamOKnz8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\conor\\source\\repos\\SMHW.NET\\SMHW.NET.Tests\\SMHW.NET.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\conor\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

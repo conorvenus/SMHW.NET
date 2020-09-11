@@ -1,0 +1,9 @@
+C:\Users\conor\source\repos\SMHW.NET\SMHW.NET\bin\Debug\netstandard2.0\SMHW.NET.deps.json
+C:\Users\conor\source\repos\SMHW.NET\SMHW.NET\bin\Debug\netstandard2.0\SMHW.NET.dll
+C:\Users\conor\source\repos\SMHW.NET\SMHW.NET\bin\Debug\netstandard2.0\SMHW.NET.pdb
+C:\Users\conor\source\repos\SMHW.NET\SMHW.NET\obj\Debug\netstandard2.0\SMHW.NET.csprojAssemblyReference.cache
+C:\Users\conor\source\repos\SMHW.NET\SMHW.NET\obj\Debug\netstandard2.0\SMHW.NET.AssemblyInfoInputs.cache
+C:\Users\conor\source\repos\SMHW.NET\SMHW.NET\obj\Debug\netstandard2.0\SMHW.NET.AssemblyInfo.cs
+C:\Users\conor\source\repos\SMHW.NET\SMHW.NET\obj\Debug\netstandard2.0\SMHW.NET.dll
+C:\Users\conor\source\repos\SMHW.NET\SMHW.NET\obj\Debug\netstandard2.0\SMHW.NET.pdb
+C:\Users\conor\source\repos\SMHW.NET\SMHW.NET\obj\Debug\netstandard2.0\SMHW.NET.csproj.CoreCompileInputs.cache

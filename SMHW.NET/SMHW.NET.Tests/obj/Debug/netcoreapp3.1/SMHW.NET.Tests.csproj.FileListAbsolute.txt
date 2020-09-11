@@ -1,0 +1,17 @@
+C:\Users\conor\source\repos\SMHW.NET\SMHW.NET.Tests\bin\Debug\netcoreapp3.1\SMHW.NET.Tests.exe
+C:\Users\conor\source\repos\SMHW.NET\SMHW.NET.Tests\bin\Debug\netcoreapp3.1\SMHW.NET.Tests.deps.json
+C:\Users\conor\source\repos\SMHW.NET\SMHW.NET.Tests\bin\Debug\netcoreapp3.1\SMHW.NET.Tests.runtimeconfig.json
+C:\Users\conor\source\repos\SMHW.NET\SMHW.NET.Tests\bin\Debug\netcoreapp3.1\SMHW.NET.Tests.runtimeconfig.dev.json
+C:\Users\conor\source\repos\SMHW.NET\SMHW.NET.Tests\bin\Debug\netcoreapp3.1\SMHW.NET.Tests.dll
+C:\Users\conor\source\repos\SMHW.NET\SMHW.NET.Tests\bin\Debug\netcoreapp3.1\SMHW.NET.Tests.pdb
+C:\Users\conor\source\repos\SMHW.NET\SMHW.NET.Tests\bin\Debug\netcoreapp3.1\SMHW.NET.dll
+C:\Users\conor\source\repos\SMHW.NET\SMHW.NET.Tests\bin\Debug\netcoreapp3.1\SMHW.NET.pdb
+C:\Users\conor\source\repos\SMHW.NET\SMHW.NET.Tests\obj\Debug\netcoreapp3.1\SMHW.NET.Tests.csprojAssemblyReference.cache
+C:\Users\conor\source\repos\SMHW.NET\SMHW.NET.Tests\obj\Debug\netcoreapp3.1\SMHW.NET.Tests.AssemblyInfoInputs.cache
+C:\Users\conor\source\repos\SMHW.NET\SMHW.NET.Tests\obj\Debug\netcoreapp3.1\SMHW.NET.Tests.AssemblyInfo.cs
+C:\Users\conor\source\repos\SMHW.NET\SMHW.NET.Tests\obj\Debug\netcoreapp3.1\SMHW.NET.Tests.csproj.CoreCompileInputs.cache
+C:\Users\conor\source\repos\SMHW.NET\SMHW.NET.Tests\obj\Debug\netcoreapp3.1\SMHW.NET.Tests.csproj.CopyComplete
+C:\Users\conor\source\repos\SMHW.NET\SMHW.NET.Tests\obj\Debug\netcoreapp3.1\SMHW.NET.Tests.dll
+C:\Users\conor\source\repos\SMHW.NET\SMHW.NET.Tests\obj\Debug\netcoreapp3.1\SMHW.NET.Tests.pdb
+C:\Users\conor\source\repos\SMHW.NET\SMHW.NET.Tests\obj\Debug\netcoreapp3.1\SMHW.NET.Tests.genruntimeconfig.cache
+C:\Users\conor\source\repos\SMHW.NET\SMHW.NET.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
